@@ -1,1 +1,3 @@
-tobias74/elasticsearch-head:6
+wurstmeister/zookeeper
+wurstmeister/kafka
+kafkamanager/kafka-manager
