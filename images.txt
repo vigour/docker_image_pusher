@@ -1,1 +1,3 @@
-bitnami/kafka
+bitnami/kafka:3.7.0
+wurstmeister/kafka:latest
+wurstmeister/zookeeper:latest
