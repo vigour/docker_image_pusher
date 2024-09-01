@@ -1,1 +1,2 @@
-nickzurich/efak:3.0.1
+apacherocketmq/rocketmq-dashboard:1.0.0
+apache/rocketmq:5.1.4
