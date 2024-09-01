@@ -1,1 +1,4 @@
-apache/rocketmq:4.9.3
+elasticsearch:7.17.4
+logstash:7.17.4
+kibana:7.17.4
+elastic/filebeat:7.17.4
