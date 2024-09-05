@@ -1,4 +1,6 @@
-elasticsearch:7.17.4
-logstash:7.17.4
-kibana:7.17.4
-elastic/filebeat:7.17.4
+gettyimages/spark:2.3.0-hadoop-2.8
+bde2020/hadoop-datanode:1.1.0-hadoop2.7.1-java8
+bde2020/hadoop-nodemanager:1.1.0-hadoop2.7.1-java8
+bde2020/hadoop-historyserver:1.1.0-hadoop2.7.1-java8
+bde2020/hadoop-resourcemanager:1.1.0-hadoop2.7.1-java8
+bde2020/hadoop-namenode:1.1.0-hadoop2.7.1-java8
