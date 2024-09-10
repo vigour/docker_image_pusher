@@ -1,3 +1,1 @@
-elasticsearch:7.14.0
-kibana:7.14.0
-logstash:7.14.0
+bde2020/hadoop-namenode:1.1.0-hadoop2.7.1-java8
