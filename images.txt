@@ -1,2 +1,7 @@
-apache/hadoop:3.3.5
-docker.io/bitnami/spark:3.3.4
+prom/prometheus:v2.38.0
+grafana/grafana:9.5.2
+prom/node-exporter:latest
+prom/alertmanager:latest
+timonwong/prometheus-webhook-dingtalk:latest
+prom/mysqld-exporter:latest
+prom/node-exporter:v1.3.1
