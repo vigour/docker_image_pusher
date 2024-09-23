@@ -1,5 +1,5 @@
-prom/prometheus:v2.38.0
-grafana/grafana:9.5.2
+prom/prometheus:v2.39.0
+grafana/grafana:latest
 prom/node-exporter:latest
 prom/alertmanager:latest
 timonwong/prometheus-webhook-dingtalk:latest
