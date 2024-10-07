@@ -1,3 +1,1 @@
-lsqtzj/openeuler_haproxy:latest
-lsqtzj/openeuler_open_gauss:latest
-lsqtzj/openeuler_pgadmin4
+apacherocketmq/rocketmq:4.6.0
