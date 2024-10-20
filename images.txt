@@ -1,3 +1,1 @@
-prom/prometheus
-prom/alertmanager
-grafana/grafana
+flink:1.17.2
