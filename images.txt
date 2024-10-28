@@ -1,3 +1,1 @@
-consul:1.14.5
-caarlos0/domain_exporter
-quay.io/prometheus/blackbox-exporter:latest
+rabbitmq:3.8.2-management
