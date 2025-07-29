@@ -1,3 +1,4 @@
 apache/rocketmq:4.9.6
 apache/rocketmq:5.3.2
 haproxy
+camunda/camunda-bpm-platform:run-latest
