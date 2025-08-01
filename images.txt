@@ -4,3 +4,5 @@ haproxy
 camunda/camunda-bpm-platform:7.17.0
 camunda/camunda-bpm-platform:7.15.0
 flowable/flowable-ui
+bitnami/zookeeper:3.8
+bitnami/kafka:3.4
