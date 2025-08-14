@@ -1,1 +1,2 @@
+wallbase/elasticsearch-head:6-alpine
 mobz/elasticsearch-head:5
